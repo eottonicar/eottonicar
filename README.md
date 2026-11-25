@@ -40,9 +40,9 @@ What if hair were approached as an architectural design object? An independent i
 | :--- | :--- |
 | **[LINEA](projects/linea.md)** · In development | **[RUPTURE WORLD](projects/rupture-world.md)** · Experimental |
 | Context, persistent memory and decision history. | Agent roles, interaction rules and coordination. |
-| [![ÍRIS](assets/iris.svg)](projects/iris.md) | **[Architecture & web portfolio](https://github.com/eottonicar/eloisa-ottonicar-arquitetura-narrativa)** |
-| **[ÍRIS](projects/iris.md)** · Application prototype | Architecture, visual communication and web exploration. |
-| Multimodal specialist assistance and structured records. | |
+| [![ÍRIS](assets/iris.svg)](projects/iris.md) | [![Architecture & web portfolio](assets/architecture.svg)](https://github.com/eottonicar/eloisa-ottonicar-arquitetura-narrativa) |
+| **[ÍRIS](projects/iris.md)** · Application prototype | **[Architecture & web portfolio](https://github.com/eottonicar/eloisa-ottonicar-arquitetura-narrativa)** · Selected work |
+| Multimodal specialist assistance and structured records. | Architecture, visual communication and web exploration. |
 
 Project source repositories remain private. These case studies are public summaries, not source releases.
 
