@@ -4,7 +4,7 @@
 
 **Architect · Creative Technologist · Independent AI Developer**
 
-I build digital products and experimental intelligent systems at the intersection of architecture, design and artificial intelligence. My work combines spatial thinking, product design, context management and AI-assisted software development.
+I build experimental intelligent systems and digital products at the intersection of architecture, design and artificial intelligence. My current research focuses on domain-specialized language models, scientific data curation, evaluation and AI-assisted software engineering. I bring spatial thinking and product design to technical problems, and develop my programming and machine-learning skills through hands-on experiments.
 
 Based in Brazil. Open to professional opportunities and technical collaborations.
 
@@ -12,7 +12,19 @@ Based in Brazil. Open to professional opportunities and technical collaborations
 
 ---
 
-## 01 / Flagship project
+## 01 / Featured research
+
+### [LAB-IA — Independent AI research](projects/lab-ia.md)
+
+**Experimental language models · PyTorch · Scientific data · Evaluation**
+
+My current research investigates a reusable, locally executed pipeline for domain-specialized language models. I have worked on an initial small Transformer trained from randomly initialized weights, and on scientific source discovery and corpus curation with AI coding assistants. CAPILAR AI is the first specialization; architecture and urbanism are a future research direction.
+
+The initial experiment is a training proof of concept, not a validated professional model. Research priorities include licensing, checkpoint preservation, reproducible training and held-out evaluation.
+
+[Read the research overview](projects/lab-ia.md)
+
+## 02 / Computational design
 
 [![ATELIÊ CAPILAR — Architecture of Hair](assets/atelie-capilar.svg)](https://eottonicar.github.io/eottonicar/atelie-capilar.html)
 
@@ -22,7 +34,7 @@ What if hair were approached as an architectural design object? An independent i
 
 [Explore the dedicated project page](https://eottonicar.github.io/eottonicar/atelie-capilar.html) · [Technical case study](projects/atelie-capilar.md) · [Visual portfolio on Behance](https://www.behance.net/gallery/259019933/ATELIE-CAPILAR-Architecture-of-Hair)
 
-## 02 / Other selected projects
+## 03 / Other selected projects
 
 | [![LINEA](assets/linea.svg)](projects/linea.md) | [![RUPTURE WORLD](assets/rupture-world.svg)](projects/rupture-world.md) |
 | :--- | :--- |
@@ -36,20 +48,20 @@ Project source repositories remain private. These case studies are public summar
 
 [Visit the interactive portfolio](https://eottonicar.github.io/eottonicar/)
 
-## 03 / Technical focus
+## 04 / Technical focus
 
 | Intelligent systems | Product & development | Creative practice |
 | :--- | :--- | :--- |
-| AI agents & LLMs | React, Vite | Architecture & interiors |
-| Prompt engineering | JavaScript / TypeScript | 3D modeling & visualization |
+| Python, PyTorch, Transformer experiments | React, Vite | Architecture & interiors |
+| Scientific data curation & evaluation research | JavaScript / TypeScript | 3D modeling & visualization |
 | Context & memory | SQLite, API integration | Computational design exploration |
 | Agent interaction design | Git, Vercel | Visual communication |
 
 These are technologies and methods explored through hands-on projects, not a claim of equal proficiency in every tool.
 
-## 04 / How I build
+## 05 / How I build
 
-I experiment with complementary AI coding assistants, including Claude and Codex, while retaining human direction over requirements, design decisions and validation.
+I work with complementary AI coding assistants, including Claude and Codex, and use GitHub Copilot for independent review. I retain human direction over research questions, requirements, design decisions and acceptance. I participate in terminal-based experiments and use the implementation process to deepen my technical understanding.
 
 ```mermaid
 flowchart LR
@@ -65,7 +77,7 @@ flowchart LR
 
 My priorities are explicit decisions, clear responsibilities, reproducible changes and preservation of project context.
 
-## 05 / Background
+## 06 / Background
 
 Bachelor's degree in Architecture and Urbanism, Universidade de Marília (UNIMAR), 2021.
 
@@ -77,7 +89,7 @@ Interested in AI applications, agent development, creative technology, digital p
 
 Sou arquiteta e urbanista, formada em 2021, e desenvolvedora independente de soluções com IA. Investigo como o pensamento arquitetônico pode contribuir para a criação de sistemas inteligentes, interfaces e produtos digitais.
 
-Meus projetos autorais incluem LINEA, Rupture World, ÍRIS e Ateliê Capilar. Trabalho com desenvolvimento assistido por IA, prototipagem, engenharia de prompts, integração de APIs, gestão de contexto e validação de aplicações.
+Minha pesquisa atual é o [LAB-IA](projects/lab-ia.md), com experimentos de Transformers em PyTorch, curadoria científica e avaliação de modelos especializados. Meus projetos autorais também incluem LINEA, Rupture World, ÍRIS e Ateliê Capilar. Trabalho com desenvolvimento assistido por IA, prototipagem, integração de APIs, gestão de contexto e validação de aplicações. O LAB-IA está em fase experimental, sem validação profissional.
 
 Estou aberta a oportunidades profissionais e colaborações em inteligência artificial, tecnologia criativa, desenvolvimento de produtos e visualização 3D.
 
