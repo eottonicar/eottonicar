@@ -14,14 +14,34 @@ Based in Brazil. Open to professional opportunities and technical collaborations
 
 ## 01 / Selected projects
 
-| Project | Research & development focus | Stage |
-| :--- | :--- | :--- |
-| **LINEA** | AI-assisted architectural project continuity, persistent context, decision history and contextual assistants | In development |
-| **RUPTURE WORLD** | Experimental multi-agent ecosystem: agent roles, operational rules and communication | Experimental |
-| **ÍRIS** | Domain-specific AI assistant for hair science, multimodal interaction and structured records | Prototype / application |
-| **[ATELIÊ CAPILAR](https://www.behance.net/gallery/259019933/ATELIE-CAPILAR-Architecture-of-Hair)** | Architecture of hair: spatial thinking, geometry, visual identity and creative technology | Public creative case study |
+[![LINEA — Intelligence of continuity](assets/linea.svg)](projects/linea.md)
 
-Selected source repositories remain private. Public documentation and demonstrations will be added as they become ready.
+**[LINEA / Case study](projects/linea.md)** · In development
+
+Project-scoped AI assistance, persistent context and a decision history.
+
+[![RUPTURE WORLD — Multi-agent experiments](assets/rupture-world.svg)](projects/rupture-world.md)
+
+**[RUPTURE WORLD / Case study](projects/rupture-world.md)** · Experimental
+
+Agent roles, operational rules and coordination.
+
+[![ÍRIS — Hair science / multimodal AI](assets/iris.svg)](projects/iris.md)
+
+**[ÍRIS / Case study](projects/iris.md)** · Application prototype
+
+Domain-specific assistance, multimodal interaction and structured records.
+
+[![ATELIÊ CAPILAR — Architecture of Hair](assets/atelie-capilar.svg)](projects/atelie-capilar.md)
+
+**[ATELIÊ CAPILAR / Case study](projects/atelie-capilar.md)** · Public creative study
+
+Architecture, geometry, visual identity and creative research.
+
+
+Project source repositories remain private. These public case studies describe the scope, design decisions and next evidence milestones without exposing proprietary code.
+
+[Architecture & web portfolio repository](https://github.com/eottonicar/eloisa-ottonicar-arquitetura-narrativa) · [Website source](docs/index.html)
 
 ## 02 / Technical focus
 
