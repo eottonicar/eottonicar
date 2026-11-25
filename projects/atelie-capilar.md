@@ -1,36 +1,58 @@
 ![ATELIÊ CAPILAR](../assets/atelie-capilar.svg)
 
-[← Portfolio index](../README.md)
+[← Portfolio](../README.md) · [Interactive project page](https://eottonicar.github.io/eottonicar/atelie-capilar.html) · [Behance](https://www.behance.net/gallery/259019933/ATELIE-CAPILAR-Architecture-of-Hair)
 
 # ATELIÊ CAPILAR / Architecture of Hair
 
-**Stage:** Public creative study · **Role:** Independent creator and AI-assisted developer / design researcher
+**Flagship project · Experimental computational design and software research · 2026**
 
-## Problem
-How can architectural thinking inform the study of hair, form, color and visual identity?
+## Manifesto
 
-## Approach
-A creative investigation connecting spatial composition, geometry, capillary science, visagism and experimental technology.
+Hair is investigated as a design material: its volume, geometry, chromatic distribution and relationship with perception. Architecture provides a way to formulate the problem, not a promise of a universal rule for beauty.
 
-## My contribution
-Concept, visual research, graphic identity and the multidisciplinary direction of the project.
+## Experiment 001 / Hair as territory
 
-## Conceptual flow
+The project includes an experimental native WebGL proof of concept using a synthetic hair object, region-based procedural geometry, abstract shape parameters, color, material and light, an orbital camera and saved variations.
+
+This is a computational and artistic representation, not a calibrated model of real hair.
+
+## Technical direction
+
+| Layer | Purpose |
+| --- | --- |
+| Geometry | Procedural representation of synthetic regions |
+| Interaction | Explore shape, color, material and viewpoints |
+| State | Preserve and compare independent variations |
+| Validation | Test geometry and data handling; review visual behavior |
+
 ```mermaid
 flowchart LR
-    A["Observe form"] --> B["Analyze geometry"] --> C["Explore color"] --> D["Visual concept"]
+ A["Matter · Form · Color · Perception"] --> B["Abstract design parameters"]
+ B --> C["Procedural representation"]
+ C --> D["Visual exploration"]
+ D --> E["Compare variations"]
+ E --> B
 ```
 
-This is a conceptual illustration, not a verified production architecture.
+Conceptual flow, not an implementation or deployment diagram.
 
-## Evidence and scope
-A public visual presentation is available on Behance. This case study does not imply scientific validation of an algorithm or completed commercial software.
+## Authorship and process
+
+Eloísa Ottonicar is the originator and creative director. She leads the problem framing, product direction, design intent and decisions. ChatGPT supports conceptual and creative exploration; Codex and Claude/Claude Code support technical implementation, investigation and review. AI collaboration is not independent scientific peer review.
+
+## Evidence and limits
+
+- A procedural WebGL prototype is documented in the project; development and validation are ongoing.
+- The public interactive illustration is separately authored for this portfolio. It is not the private prototype or a screenshot of it.
+- No validated hair-fiber physics, haircut prediction, chemical outcome prediction, personality inference or clinical assessment is claimed.
+- No verified prototype screenshots or recordings are included in this public release. No private source code, research library or client data is published.
 
 ## Next public milestone
-Document the design process with examples, references and a clear distinction between visual experiments and tested technical features.
 
-## Resumo em português
-Arquitetura, geometria, identidade visual e pesquisa criativa. Este estudo apresenta a proposta e a contribuição autoral; não inclui código privado, dados pessoais ou métricas não verificadas.
+Record a real prototype walkthrough using synthetic data, with a version label and clearly documented validation scope.
 
-[Visual case study on Behance](https://www.behance.net/gallery/259019933/ATELIE-CAPILAR-Architecture-of-Hair)
+## Português
 
+O Ateliê Capilar investiga cabelo como matéria, forma, distribuição cromática e relação perceptiva. A prova experimental utiliza geometria procedural em WebGL e permite explorar parâmetros abstratos e variações. Eloísa é idealizadora e diretora criativa, com desenvolvimento assistido por IA. A demonstração pública é uma ilustração conceitual independente, não uma simulação física ou previsão química.
+
+[Explorar página do projeto](https://eottonicar.github.io/eottonicar/atelie-capilar.html) · [Projeto visual no Behance](https://www.behance.net/gallery/259019933/ATELIE-CAPILAR-Architecture-of-Hair)
