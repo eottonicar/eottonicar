@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+<title id="title">Eloísa Ottonicar — Creative Technologist</title>
+<desc id="desc">Editorial banner in cream, cobalt blue and vermilion, with a geometric orbital drawing.</desc>
+<rect width="1200" height="430" fill="#F2E8D3"/>
+<rect x="810" width="390" height="430" fill="#172A90"/>
+<g fill="none" stroke="#172A90" stroke-width="1" opacity=".32"><path d="M34 34H782M34 396H782M34 34V396M782 34V396"/><path d="M34 80H782M34 350H782"/></g>
+<g fill="none" stroke="#F2E8D3" stroke-width="1.15" opacity=".85"><ellipse cx="1005" cy="215" rx="38" ry="176" transform="rotate(-82 1005 215)"/><ellipse cx="1005" cy="215" rx="43.7" ry="176" transform="rotate(-71 1005 215)"/><ellipse cx="1005" cy="215" rx="49.4" ry="176" transform="rotate(-60 1005 215)"/><ellipse cx="1005" cy="215" rx="55.1" ry="176" transform="rotate(-49 1005 215)"/><ellipse cx="1005" cy="215" rx="60.8" ry="176" transform="rotate(-38 1005 215)"/><ellipse cx="1005" cy="215" rx="66.5" ry="176" transform="rotate(-27 1005 215)"/><ellipse cx="1005" cy="215" rx="72.2" ry="176" transform="rotate(-16 1005 215)"/><ellipse cx="1005" cy="215" rx="77.9" ry="176" transform="rotate(-5 1005 215)"/><ellipse cx="1005" cy="215" rx="83.6" ry="176" transform="rotate(6 1005 215)"/><ellipse cx="1005" cy="215" rx="89.30000000000001" ry="176" transform="rotate(17 1005 215)"/><ellipse cx="1005" cy="215" rx="95" ry="176" transform="rotate(28 1005 215)"/><ellipse cx="1005" cy="215" rx="100.7" ry="176" transform="rotate(39 1005 215)"/><ellipse cx="1005" cy="215" rx="106.4" ry="176" transform="rotate(50 1005 215)"/><ellipse cx="1005" cy="215" rx="112.10000000000001" ry="176" transform="rotate(61 1005 215)"/><ellipse cx="1005" cy="215" rx="117.8" ry="176" transform="rotate(72 1005 215)"/><ellipse cx="1005" cy="215" rx="123.5" ry="176" transform="rotate(83 1005 215)"/><circle cx="1005" cy="215" r="181"/><path d="M824 215h362M1005 34v362"/></g>
+<circle cx="1005" cy="215" r="57" fill="#F04424"/>
+<g fill="#172A90" font-family="Arial, Helvetica, sans-serif">
+<text x="56" y="62" font-size="15" font-weight="700" letter-spacing="3">INDEPENDENT CREATIVE LAB / 2026</text>
+<text x="48" y="174" font-size="104" font-weight="900" letter-spacing="-5">ELOÍSA</text>
+<text x="48" y="273" font-size="91" font-weight="900" letter-spacing="-4">OTTONICAR</text>
+<text x="56" y="322" font-size="27" font-weight="700" letter-spacing="1">CREATIVE TECHNOLOGIST</text>
+<text x="56" y="378" font-size="17" font-weight="700" letter-spacing="2">ARCHITECTURE / AI / EXPERIMENTATION</text>
+</g><rect x="747" y="53" width="16" height="16" fill="#F04424"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#F2E8D3" font-size="12" letter-spacing="2"><text x="834" y="26">FIG. 01</text><text x="834" y="411">FORM / LOGIC / INTELLIGENCE</text></g>
+</svg>
