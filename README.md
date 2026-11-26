@@ -8,7 +8,7 @@ I build experimental intelligent systems and digital products at the intersectio
 
 Based in Brazil. Open to professional opportunities and technical collaborations.
 
-[Portfolio website](https://eottonicar.github.io/eottonicar/) · [LinkedIn](https://www.linkedin.com/in/arqeloisaottonicar/) · [Behance](https://www.behance.net/gallery/259019933/ATELIE-CAPILAR-Architecture-of-Hair) · [Português ↓](#sobre-mim)
+[AI & Creative Technology Portfolio (Behance)](https://www.behance.net/gallery/259076149/Intelligence-Meets-Imagination-AI-Portfolio) · [Technical portfolio website](https://eottonicar.github.io/eottonicar/) · [LinkedIn](https://www.linkedin.com/in/arqeloisaottonicar/) · [Português ↓](#sobre-mim)
 
 ---
 
@@ -93,7 +93,7 @@ Minha pesquisa atual é o [LAB-IA](projects/lab-ia.md), com experimentos de Tran
 
 Estou aberta a oportunidades profissionais e colaborações em inteligência artificial, tecnologia criativa, desenvolvimento de produtos e visualização 3D.
 
-**[LinkedIn](https://www.linkedin.com/in/arqeloisaottonicar/) · [Behance](https://www.behance.net/gallery/259019933/ATELIE-CAPILAR-Architecture-of-Hair)**
+**[LinkedIn](https://www.linkedin.com/in/arqeloisaottonicar/) · [Portfólio de IA e tecnologia criativa (Behance)](https://www.behance.net/gallery/259076149/Intelligence-Meets-Imagination-AI-Portfolio)**
 
 ---
 
